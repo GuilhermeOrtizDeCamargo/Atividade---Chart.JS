@@ -1,6 +1,6 @@
-# Atividade de CSS da AquaTech
+# Atividade de PI do Chart.JS
 
-Repositório forkado da profª Clara Faria. 
+Repositório criado para a aula da profª Clara Faria. 
 
 <h1>
     <a href="https://github.com/SPTech-Atividades-de-PI/aquatech-somente-html">
